@@ -26,7 +26,8 @@ const projectCategories = {
       'https://i.ibb.co/pv2RdFxj/solar-1.jpg',
       'https://i.ibb.co/208sGYss/solar-2.jpg',
       'https://i.ibb.co/q39xMrVK/solar-3.jpg',
-      'https://i.ibb.co/ZRLbMXj5/solar-5.jpg'
+      'https://i.ibb.co/ZRLbMXj5/solar-5.jpg',
+      'https://res.cloudinary.com/dm0s8aag5/image/upload/v1780127742/WhatsApp_Image_2026-05-30_at_13.24.31_1_gbx3fy.jpg'
     ]
   },
   agriculture: {
