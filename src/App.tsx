@@ -592,7 +592,13 @@ export default function App() {
                 <button onClick={() => setModalContent('terms')} className="hover:text-yellow-400 transition-colors">Terms of Services</button>
               </div>
             </div>
-            <p className="text-yellow-400">Authorized Partner of WAAREE Energies Ltd.</p>
+            <div className="flex flex-col md:flex-row items-center gap-4 md:gap-6">
+              <p className="text-yellow-400">Authorized Partner of WAAREE Energies Ltd.</p>
+              <span className="hidden md:inline text-blue-900/50">|</span>
+              <p className="text-blue-300">
+                Designed and Built by : <a href="https://vertexflows.in" target="_blank" rel="noopener noreferrer" className="text-yellow-400 hover:text-yellow-300 transition-colors hover:underline underline-offset-4">Vertex Flows</a>
+              </p>
+            </div>
           </div>
         </div>
       </footer>
